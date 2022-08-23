@@ -1,2 +1,2 @@
-# Explore-HTML-CSS-Travel-Agency
-Explore HTML CSS Travel Agency
+# Explore Travel Agency
+Explore Travel Agency
